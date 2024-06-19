@@ -19,9 +19,7 @@ Adicione a seguinte configuração:
 }
 ```
 
-Após fazer essa alteração, reinicie o Docker para aplicar as mudanças.
-
-### Passo a Passo
+### Passo a passo
 
 1. Clone o repositório:
    ```bash
@@ -33,7 +31,7 @@ Após fazer essa alteração, reinicie o Docker para aplicar as mudanças.
    docker compose up -d
    ```
 
-3. Para acessar a página de login do Wordpress que já está configurada, abra a URL:
+3. Abra a URL:
    [http://localhost:8000/wp-login.php](http://localhost:8000/wp-login.php)
 
 4. Faça login com as seguintes credenciais:
@@ -54,8 +52,8 @@ Pronto! O plugin do Redis está instalado e ativo.
 
 ### Monitoramento com Prometheus
 
-- Acesse a URL: [http://localhost:9090](http://localhost:9090)
-- Navegue até **Status > Targets**
+- Acesse o Link: [http://localhost:9090](http://localhost:9090)
+- Navegue até Status -> Targets
 
 ### Conclusão
 
