@@ -53,10 +53,10 @@ Após o login, você verá a tela inicial do Wordpress. Para instalar o plugin d
 Pronto! O plugin do Redis está instalado e ativo.
 
 
-### Monitoramento do Docker com Prometheus
+### Monitoramento com Prometheus
 
-1. Acesse a URL: [http://localhost:9090](http://localhost:9090)
-2. Navegue até `Status > Targets`
+- Acesse o Link: [http://localhost:9090](http://localhost:9090)
+- Navegue até Status > Targets
 
 ### Conclusão
 
